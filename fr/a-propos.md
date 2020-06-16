@@ -1,49 +1,48 @@
 ---
 layout: about
 lang: fr
-title: Sobre
+title: A propos
 ---
 
-# Sobre o livro
+# À propos du livre
 
-Nos anos 90, durante a Guerra da Bósnia, nosso pai ficou em Sarajevo (Saraievo), enquanto minha mãe, meu irmão Kosta e eu conseguimos fugir
-para a Sérvia. Apesar de tudo, nosso pai nos escrevia cartas - divertidas, positivas e cheias de desenhos.
+Dans les années 90, pendant la guerre de Bosnie, notre père est resté à Sarajevo (Sarajevo), tandis que ma mère, mon frère Kosta et moi avons réussi à nous enfuir en Serbie. Malgré tout, notre père nous a écrit des lettres - drôles, positives et pleines de dessins.
 
-Cerca de dez anos depois, o livro foi publicado, consistindo em cartas selecionadas do meu pai e as respostas que meu irmão Kosta escrevia em um caderno.
+Une dizaine d'années plus tard, le livre a été publié, composé de lettres choisies de mon père et des réponses que mon frère Kosta a écrites dans un cahier.
 
 {:.About-book}
-![O Livro, publicado em 2005.](/public/img/korice.jpg)
+![Le livre, publié en 2005.](/public/img/korice.jpg)
 
-Combinadas, essas cartas contam uma história um pouco mais alegre e diferente da guerra.
+Combinées, ces lettres racontent une histoire légèrement plus joyeuse et différente de la guerre.
 
-## Sobre esse website
+## À propos de ce site
 
-Esse website foi criado para que pudéssemos compartilhar essa história com todo mundo.
+Ce site Web a été créé afin que nous puissions partager cette histoire avec tout le monde.
 
-É muito difícil reeditar fielmente um livro como esse para o formato digital. A diferença entre outras línguas e o Sérvio não ajuda muito. Eu fiz o melhor que eu pude, mas recomendo fortemente que você leia _as cartas_ em uma tela grande ao invés de em um _smartphone_.
+Il est très difficile de rééditer fidèlement un livre comme celui-ci au format numérique. La différence entre les autres langues et le serbe n'aide pas beaucoup. J'ai fait de mon mieux, mais je vous recommande fortement de lire les lettres sur un grand écran plutôt que sur un portable.
 
-Todo o conteúdo e o código-fonte desse website estão disponíveis no [GitHub](https://github.com/Stanko/letters-from-sarajevo) sob a licença [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+Tout le contenu et le code source de ce site Web sont disponibles sur [GitHub](https://github.com/Stanko/letters-from-sarajevo) sous la licence [CC BY-NC 4.0](https://creativecommons.org/licences/by-nc/4.0/).
 
-## Desenhos
+## Dessins
 
-Infelizmente, as cartas originais foram perdidas no processo e nos restou apenas versões digitalizadas em baixa resolução. Por isso, devemos um imenso agradecimento ao meu amigo [Ivan Nedeljković](https://www.instagram.com/sun_day_sign/), que redesenhou e digitalizou todos os desenhos, baseando-se apenas nas digitalizações originais.
+Malheureusement, les lettres originales ont été perdues dans le processus et nous nous sommes retrouvés avec uniquement des versions numérisées en basse résolution. Pour cela, nous devons un immense merci à mon ami [Ivan Nedeljković](https://www.instagram.com/sun_day_sign/), qui a repensé et numérisé tous les dessins, en se basant uniquement sur les numérisations originales.
 
-O resultado é maravilhoso, e abaixo você pode comparar um dos desenhos originais com a versão do Ivan.
+Le résultat est merveilleux, et ci-dessous, vous pouvez comparer l'un des dessins originaux avec la version d'Ivan.
 
 <div class="About-drawings">
   <div class="About-drawing">
-    <img src="/public/img/scan.jpg" alt="Desenho original, digitalizado Original drawing, digitalizada em baixa resolução" />
+    <img src="/public/img/scan.jpg" alt="Dessin original, numérisé Dessin original, numérisé à basse résolution" />
   </div>
   <div class="About-drawing">
-    <img src="/public/img/letter-01/03.png" alt="O mesmo desenho, redesenhado pelo Ivan" />
+    <img src="/public/img/letter-01/03.png" alt="Le même design, repensé par Ivan" />
   </div>  
 </div>
 
-Agora, se você quiser ajudar a traduzir esse livro para outra língua ou se tiver qualquer sugestão, por favor faça isso abrindo uma _issue_ no <a href="https://github.com/Stanko/letters-from-sarajevo/issues">Github</a>.
+Maintenant, si vous souhaitez aider à traduire ce livre dans une autre langue ou si vous avez des suggestions, veuillez le faire en ouvrant un _issue_ sur <a href="https://github.com/Stanko/letters-from-sarajevo/issues">Github</a>.
 
-Obrigado pelo interesse!
+Merci pour ton intérêt!
 
 <div class="About-signature">
   Stanko Tadić<br/>
-  Belgrado, 2020.
+  Belgrade, 2020.
 </div>
