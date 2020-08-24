@@ -1,21 +1,21 @@
 ---
 layout: response
 lang: fr
-prevLink: /pt-br/quinta-carta
-nextLink: /pt-br/epilogo
-title: Quinta resposta
+prevLink: /fr/lettre-cinc
+nextLink: /fr/epilogue
+title: Cinquième réponse
 ---
 
-<div class="Response-date">January 17, 1994</div>
+<div class="Response-date">17 janvier 1994</div>
 
-Querido pai,
+Cher père,
 
-Stane e eu gostamos muito do seu fogão. Aqui está uma receita de chocolate quente: coloque em uma panela três colheres de cacau, três colheres de leite em pó e açúcar. Em seguida, adicione um pouco de água, misture bem e aqueça no fogão. (Aprendi a receita com a vovó Ruža lá da "Sutjeska").
+Stane et moi aimons vraiment votre poêle. Voici une recette de chocolat chaud: mettez trois cuillères à soupe de cacao, trois cuillères à soupe de lait en poudre et du sucre dans une casserole. Ajoutez ensuite un peu d'eau, mélangez bien et faites chauffer sur le feu. (J'ai appris la recette de grand-mère Ruža de «Sutjeska»).
 
-Fizemos uma festa de Réveillon na sala que serve como sala de aula durante o dia. Tocamos música com fitas k7 e dançamos. Eu queria declarar o meu amor para a Jelena, mas perdi toda a coragem quando ela apareceu de vestido. Ela parecia de alguma forma diferente, como se ela não fosse a mesma com quem eu passo tanto tempo junto. O Siniša parece ter entendido o que está acontecendo. Ele me provocava e mandava eu dançar com Jelena, mas em vão. Fiquei parado no canto da sala, assistindo-a dançar com um garoto da sétima série da "Sutjeska". E só de pensar que eu lutava pela porcaria da "Sutjeska", me enfureci por dentro.
+Nous avons organisé une fête du Nouvel An dans la salle qui sert de salle de classe pendant la journée. Nous avons joué de la musique avec des cassettes k7 et dansé. Je voulais déclarer mon amour à Jelena, mais j'ai perdu tout courage quand elle est apparue dans une robe. Elle avait l'air quelque peu différente, comme si elle n'était pas la même personne avec qui j'ai passé tant de temps. Siniša semble avoir compris ce qui se passe. Il m'a taquiné et m'a dit de danser avec Jelena, mais en vain. Je me tenais dans un coin de la pièce, la regardant danser avec un garçon de septième année de «Sutjeska». Et juste pour penser que je me battais pour la merde «Sutjeska», je me suis mis en colère à l'intérieur.
 
-Stane e Ivica tiveram mais sorte: eles dançaram com todas as meninas mais jovens e até duas da segunda série.
+Stane et Ivica ont eu plus de chance: ils ont dansé avec toutes les jeunes filles et même deux en deuxième année.
 
-Não disse nada a Jelena, e continuamos saindo como de costume. Não sei se terei coragem suficiente para contar a ela o que eu sinto. Seria mais fácil se você estivesse aqui comigo.
+Je n'ai rien dit à Jelena et nous avons continué comme d'habitude. Je ne sais pas si j'aurai le courage de lui dire ce que je ressens. Ce serait plus facile si vous étiez ici avec moi.
 
 <div class="Response-signature">Kosta</div>
