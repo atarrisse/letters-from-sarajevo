@@ -1,79 +1,81 @@
 ---
 layout: letter-four
 lang: fr
-prevLink: /pt-br/terceira-resposta
-nextLink: /pt-br/quarta-resposta
-title: Quarta carta
+prevLink: /fr/reponse-troi
+nextLink: /fr/reponse-quatre
+title: Quatrième carte
 
 letterDate: Sarajevo, 20.VIII 1993
 
-header: Queridos Kole e Stane,
+header: Chers Kole et Stane,
 
 sentenceOne:
-  - Já faz um ano desde que vocês
+  - Ça fait un an que
   - image: /public/img/letter-04/left.png
-    alt: foram embora de Sarajevo
+    alt: vous as quitté Sarajevo
     modifier: xwide
 
 sentenceTwo:
-  - Nesse tempo,
+  - Pendant ce temps,
   - image: /public/img/letter-04/earth.png
-    alt: a Terra
-  - continuou
+    alt: la Terre
+  - made
   - image: /public/img/letter-04/earth-run.png
-    alt: girando
+    alt: a tourné
     modifier: xl
-  - ao redor
+  - autour
   - image: /public/img/letter-04/sun.png
-    alt: do Sol
+    alt: du Soleil
     modifier: lg
 
 sentenceThree:
-  - "Ao mesmo tempo, você viajou por uma rota menor: Sarajevo - Divljana."
+  - "Vous avez fait un voyage plus court: Sarajevo - Divljana."
 
 sentenceFour:
-  - Você mudou →
+  - As-tu changé →
   - image: /public/img/letter-04/thin.png
-    alt: ficou mais magro
+    alt: est devenu plus mince
   - ou
   - image: /public/img/letter-04/fat.png
-    alt: mais gordo
+    alt: plus gros
   - ou
   - image: /public/img/letter-04/mustaches.png
-    alt: cresceram seus bigodes
+    alt: vos moustaches ont poussé
     modifier: xl
   - "?"
 
 sentenceLeft:
-  text: Estão fazendo musculação?
+  text: Faites-vous de l'exercice?
   image: /public/img/letter-04/lazy.png
+  alt: Kole et Stane allongés sur le canapé.
 
 sentenceRight:
-  text: Estão ouvindo a mãe de vocês?
+  text: Écoutez-vous votre maman?
   image: /public/img/letter-04/mom.png
+  alt: Maman debout derrière Kole et Stane avec un rouleau à pâtisserie et un gant de boxe.
 
 blockOne:
   image: /public/img/letter-04/truce.png
-  alt: Um soldado deitado em um canhão tampado com uma rolha.
-  text: Os últimos dez dias tem sido quietos por aqui.
+  text: C'est calme ici depuis une dizaine de jours.
+  alt: Un soldat allongé sur un canon bourré d'un bouchon de vin.
 
 blockTwo:
   image: /public/img/letter-04/electricity.png
-  alt: Uma lâmpada acesa na frente de um homem que não quer olhar para ela.
-  text: Na última noite, depois de muito, muito tempo, nossa luz voltou.
-  textBottom: Nós já estávamos nos acostumando com a escuridão.
+  text: Hier soir, l'électricité était de retour après une très longue période.
+  textBottom: Nous nous sommes habitués à l'obscurité.
+  alt: Une ampoule s'est allumée et un homme s'en est éloigné.
 
 blockThree:
   image: /public/img/letter-04/sick.png
-  alt: Um homem com um brinquedo e um chocalho.
   text: >-
-    O último ano foi muito difícil por aqui, alguns não reagiram muito bem
-    e ficaram meio "doentes"
+    Nous avons eu une année très difficile ici. Certains ne pouvaient pas le supporter.
+    Ils sont devenus un peu dingues.
+  alt: Un homme jouant avec un jouet et un hochet.
 
 blockFour:
   image: /public/img/letter-04/icarus.png
-  alt: Pai sonhando acordado em ter as asas de Ícaro.
   text: >-
-    Com muito amor!<br/>
-    Espero vê-los em breve
+    Beaucoup d'amour! <br/>
+    A bientôt, j'espère.
+  alt: Papa rêvant des ailes d'Icare.
 ---
