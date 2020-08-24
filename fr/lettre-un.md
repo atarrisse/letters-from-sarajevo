@@ -1,37 +1,37 @@
 ---
 layout: letter-one
 lang: fr
-nextLink: /pt-br/primeira-resposta
+nextLink: /fr/reponse-un
 
-title: Primeira carta
+title: Première lettre
 
-header: Queridos Kole e Stane,
+header: Chers Kole et Stane,
 
 blockOne:
   image: /public/img/letter-01/01.png
-  alt: Homem carrega litros de água, enquanto sonha com uma caneca de cerveja.
-  text: Não há água. Nós precisamos ir buscar do outro lado da cidade.
+  alt: L'homme porte des litres d'eau en rêvant d'une chope de bière.
+  text: Il n'y a pas d'eau. Nous devons l'obtenir de l'autre côté de la ville.
 
 blockTwo:
   image: /public/img/letter-01/02.png
-  alt: Um rato corre para um buraco na parede carregando um homem pendurado à sua cauda.
-  text: Os mísseis continuam caindo. Nós aprimoramos nossas técnicas de resgate.
+  alt: Un rat court dans un trou dans le mur transportant un homme suspendu à sa queue.
+  text: Les missiles continuent de tomber. Nous avons amélioré nos techniques de sauvetage.
 
 blockThree:
   image: /public/img/letter-01/03.png
-  alt: Pessoas correndo nas ruas, é possível ler um cartaz dizendo "Cuidado com os franco-atiradores"
+  alt: Les gens qui courent dans les rues, vous pouvez lire un panneau disant "Attention aux snipers"
   text: >-
-    Ainda temos que correr por muitas ruas.
-    Ao invés de semáforos, há cartazes que dizem:
-  warningInscription: Cuidado com os franco-atiradores!
+    Nous devons encore parcourir de nombreuses rues.
+    Au lieu de feux de signalisation, il y a des panneaux qui disent:
+  warningInscription: Attention aux snipers!
 
 blockFour:
   image: /public/img/letter-01/04.png
-  alt: Existe apenas uma árvore no parque, uma pequena bétula com uma placa que diz "Se você cortar essa árvore, será sua última"
+  alt: Il n'y a qu'un seul arbre dans le parc, un petit bouleau avec un panneau indiquant "Si vous coupez cet arbre, ce sera votre dernier"
   text: >-
-    Nesse inverno quase todas as árvores da cidade foram cortadas para serem usadas nos aquecedores.
-    Apenas algumas sobraram.
-    Eu vi uma delas (uma pequena bétula) perto da Universidade.
-    Nela tinha uma placa que dizia:
-  treeInscription: Se você cortar essa árvore, será a sua última!
+    Cet hiver-là, presque tous les arbres de la ville ont été coupés pour être utilisés dans les appareils de chauffage.
+    Il n'en reste que quelques-uns.
+    J'ai vu l'un d'eux (un petit bouleau) près de l'université.
+    Il y avait un signe qui disait:
+  treeInscription: Si vous coupez cet arbre, ce sera votre dernier!
 ---
