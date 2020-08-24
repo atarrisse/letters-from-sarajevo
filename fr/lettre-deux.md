@@ -1,12 +1,12 @@
 ---
 layout: letter-two
 lang: fr
-prevLink: /pt-br/primeira-resposta
-nextLink: /pt-br/segunda-resposta
-title: Segunda carta
+prevLink: /fr/reponse-un
+nextLink: /fr/reponse-deux
+title: Deuxième carte
 
 header:
-  - Queridos
+  - Chers
   - image: /public/img/letter-02/kole.png
     alt: Kole
   - "&"
@@ -16,54 +16,54 @@ header:
 letterDate: "Sarajevo, 4.V 93."
 
 sentenceOne:
-  - Na semana passada, bem ao
+  - La semaine dernière, juste à
   - image: /public/img/letter-02/clock.png
-    alt: meio-dia
-  - do dia 28 de Abril
+    alt: midi
+  - du 28 avril
   - image: /public/img/letter-02/fly-in.png
-    alt: um foguete voou
-  - "bem no nosso quarto."
+    alt: une fusée a volé
+  - "directement dans notre chambre."
 
 sentenceTwo:
   - image: /public/img/letter-02/rocket-1.png
-    alt: O foguete
-  - de fato,
+    alt: La fusée
+  - en effet,
   - image: /public/img/letter-02/hit.png
-    alt: atingiu
-  - a nossa
+    alt: a frapée
+  - notre
   - image: /public/img/letter-02/window.png
-    alt: janela
+    alt: fenêtre
     modifier: window
   - "."
 
 sentenceThree:
   - image: /public/img/letter-02/tadija-1.png
-    alt: Eu
-  - estava na Universidade.
+    alt: Je
+  - était à l'Université.
   - image: /public/img/letter-02/rocket-2.png
-    alt: O foguete
-  - veio e
+    alt: La fusée
+  - est venue et
   - image: /public/img/letter-02/destroy.png
-    alt: destruiu
+    alt: a détruit
     modifier: lg
-  - tudo no nosso quarto.
+  - tout dans notre chambre
 
 sentenceFour:
-  - Agora estou no quarto do Kosa
+  - Maintenant je suis dans la chambre de Kosta
   - image: /public/img/letter-02/bed.png
-    alt: Papai cobre sua cabeça deitado na cama.
+    alt: Papa couvre sa tête allongée sur le lit.
     modifier: xl
 
 sentenceFive:
-  - Muitos
+  - Beaucoup
   - image: /public/img/letter-02/greetings.png
-    alt: cumprimentos
+    alt: de salutations
     modifier: lg
-  - pra vocês
+  - à vous
   - image: /public/img/letter-02/two-of-you.png
-    alt: dois
+    alt: deux
     modifier: lg
   - de
   - image: /public/img/letter-02/tadija-2.png
-    alt: mim.
+    alt: ma part.
 ---
