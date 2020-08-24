@@ -1,21 +1,21 @@
 ---
 layout: response
 lang: fr
-prevLink: /pt-br/quarta-carta
-nextLink: /pt-br/quinta-carta
-title: Quarta resposta
+prevLink: /fr/lettre-quatre
+nextLink: /fr/lettre-cinc
+title: Quatrième réponse
 ---
 
-<div class="Response-date">4 de novembro de 1993</div>
+<div class="Response-date">4 novembre 1993</div>
 
-Querido pai,
+Cher papa,
 
-Fiquei feliz com a sua carta, então a mamãe entrou no meu quarto chorando. Ela soube que o tio Grujo morreu. Fui com ela até as autoridades, para ela pedir um documento que a permite viajar de trem de graça. Demorou horas e eles quase não deram os documentos pra ela. Ela foi ao funeral esta manhã e me pediu para tomar conta do Stane. Ele está lá fora brincando com o Ivica. Os estou observando brincar pela janela. Eu não contei para o Stane onde a mamãe foi. Eu só disse a ele que ela voltará amanhã.
+J'étais content de ta lettre, puis maman est entrée dans la pièce en larmes. Elle a découvert que l'oncle Grujo était mort. Je suis allée avec elle au bureau administratif pour demander une confirmation écrite qui lui permettrait de prendre le train sans billet. L'obtenir n'a pas été facile et cela a pris quelques heures. Ce matin, elle est allée à l'enterrement et m'a demandé de m'occuper de Stane. Il est dehors avec Ivica maintenant. Je les regarde jouer par la fenêtre. Je n'ai pas dit à Stane où maman était partie. Je lui ai seulement dit qu'elle revenait demain.
 
-Há dois meses, nos mudamos para a "Igman" e agora estou andando com o Siniša. No começo, fiquei chateado por deixar a "Sutjeska", mas agora tenho orgulho de pertencer à "Igman". Os garotos da "Sutjeska" estão nos atacando covardemente com pinhas, evitando uma verdadeira luta aberta. Ainda não recebi nenhuma carta de Mihajlo. Talvez ele não tenha escrito porque descobriu que eu me tornei um "Igman", ou talvez ele só tenha se esquecido de mim. (Não sei por que, mas tenho certeza que Samir não me esqueceu. Ele escreveria para mim se pudesse.)
+Nous avons déménagé au «Igman» Inn il y a quelques mois, alors maintenant je traîne avec Siniša. Au début, je rêvais de la «Sutjeska», mais maintenant je suis fier d'être l'un des garçons Igman. Ceux de «Sutjeska» nous attaquent lâchement avec des pommes de pin, mais ils évitent les véritables combats ouverts. Je n'ai toujours pas reçu de lettre de Mihajlo. Peut-être qu'il ne m'a pas écrit parce qu'il avait découvert que je devenais un garçon «Igman» ou qu'il avait peut-être tout oublié de moi. (Je ne sais pas pourquoi mais je suis certain que Samir ne m'avait pas oublié. Il m'écrirait s'il le pouvait.)
 
-Na "Igman", nós da quinta série temos aulas com um professor que vem de Niš todos os dias. Para chegar à escola, só preciso descer as escadas e, no recreio, posso voltar para o nosso quarto para lanchar. Depois da escola, o Siniša e eu largamos os cadernos e imediatamente vamos para fora. Frequentemente Jelena e Aleksandra vêm conosco. As duas são nossas melhores amigas. Jelena é da "Sutjeska", mas convenci o Siniša de que isso não importa, porque ela é uma menina, e meninas não participam da guerra. Sendo sincero, eu gosto da Jelena. Eu acho que estou apaixonado por ela.
+Nous, les élèves de cinquième année, avons des cours à l'Igman et un professeur vient de Niš tous les jours. Tout ce que j'ai à faire pour aller à l'école est de descendre les escaliers. Et pendant la pause, je peux monter dans notre chambre et prendre une collation. Après l'école, Siniša et moi laissons nos cahiers dans nos chambres et nous sortons précipitamment. Jelena et Aleksandra nous rejoignent souvent. Les deux sont nos meilleurs amis. Jelena est de la «Sutjeska» mais j'ai convaincu Siniša que ce n'est pas grave parce que c'est une fille, donc elle ne participe pas à la guerre de toute façon. Pour être honnête, j'aime Jelena. Je pense que je suis amoureux d'elle.
 
-Eu mostrei suas cartas para a Jelena. Ela disse que adoraria aprender a desenhar tão bem quanto você. Ela também leu minhas cartas para você. Ela prometeu não contar a ninguém sobre elas. Espero que você as leia em breve também.
+J'ai montré vos lettres à Jelena. Elle a dit qu'elle adorerait apprendre à dessiner aussi bien que vous. Elle vous a également lu mes lettres. Elle a promis de n'en dire un mot à personne. J'espère que vous les lirez bientôt aussi.
 
 <div class="Response-signature">Kosta</div>
