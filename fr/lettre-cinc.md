@@ -12,16 +12,17 @@ title: Quinta carta
   </div>
 
   <div class="LetterFive-header">
-    Queridos Stane e Kole,
+    Chers Stane et Kole,
   </div>
 
   <div class="LetterFive-top">
-    <p class="LetterFive-topText">Nada novo por aqui:</p>
+    <p class="LetterFive-topText">Je n'ai pas de nouvelles à signaler:</p>
     <div class="LetterFive-topImageWrapper">
       <img 
         class="LetterFive-topImage" 
-        alt="Sem eletricidade, sem água, sem pão, sem telefone" 
         src="/public/img/letter-05/news.png" 
+        alt="Il n'y a ni électricité, ni eau, ni pain, ni téléphone." 
+        title="Il n'y a ni électricité, ni eau, ni pain, ni téléphone." 
       />
     </div>
   </div>
@@ -29,32 +30,34 @@ title: Quinta carta
   <div class="LetterFive-bottom">
     <div class="LetterFive-bottomLeft">
       <p class="LetterFive-bottomText">
-        Eu arranjei um pequeno fogão. Agora eu posso fazer chá nele.
+        J'ai un petit poêle que j'ai mis dans ma chambre. Je peux faire du thé dessus.
         <br/>
-        (Figura 1.)
+        (Image 1)
       </p>
       <img 
         class="LetterFive-bottomImageSmall"
-        alt="Dois fogões lado a lado (figuras 1 e 2), um com sobrancelhas e um nariz desenhado." 
         src="/public/img/letter-05/stove.png" 
+        alt="Un poêle avec des sourcils et un nez dessiné dessus." 
+        title="Un poêle avec des sourcils et un nez dessiné dessus." 
       />
       <p class="LetterFive-bottomText">
-        O fogão é pequeno, preto e feio. Então eu desenhei duas sobrancelhas e um nariz nele. Já tinha dois furos circulares onde podemos ver as chamas lá dentro. Quando você abre o cinzeiro, parece que ele está bocejando ou tagarelando.
+        Le poêle est petit, noir et laid. J'ai donc dessiné deux sourcils et un nez dessus. Il y avait déjà deux trous circulaires où l'on peut voir les flammes à l'intérieur. Lorsque vous ouvrez le cendrier, il semble qu'il bâille ou claque.
         <br/>
-        (Figura 2.)
+        (Image 2)
       </p>
     </div>
     <div class="LetterFive-bottomImageLargeWrapper">
       <img 
         class="LetterFive-bottomImageLarge"
-        alt="Dois fogões lado a lado (figuras 1 e 2), um com sobrancelhas e um nariz desenhado." 
         src="/public/img/letter-05/stove.png" 
+        alt="Un poêle avec des sourcils et un nez dessiné dessus." 
+        title="Un poêle avec des sourcils et un nez dessiné dessus." 
       />
     </div>
   </div>
 
   <div class="LetterFive-signature">
-    Com muito amor!
+    Gros bisous!
   </div>
 
 {% include pagination.html %}
