@@ -1,19 +1,19 @@
 ---
 layout: response
 lang: fr
-title: Epílogo
-prevLink: /pt-br/quinta-resposta
+title: Épilogue
+prevLink: /fr/reponse-cinc
 ---
 
 {% include set-translations.html %}
 
-# Epílogo
+# Épilogue
 
-Logo depois que escrevi a última carta, nos mudamos para Kraljevo. Quando estávamos saindo de Divljana, alguns amigos nos acompanharam até a estação: Jelena e Aleksandra estavam ao nosso lado, enquanto Siniša e Ivica estavam silenciosamente jogando bolas de neve em uma árvore distante.
+Nous avons déménagé à Kraljevo peu de temps après avoir écrit la dernière lettre. Quand nous quittions Divljana, nos amis nous ont vus à la gare. Jelena et Aleksandra se tenaient sur le côté tandis que Siniša et Ivica lançaient tranquillement des boules de neige sur un arbre au loin.
 
-Três meses depois, papai saiu de Sarajevo e se juntou a nós, após dois anos de separação;
+Trois mois plus tard, papa a quitté Sarajevo et nous a rejoint après deux ans de séparation.
 
 ---
 
 {:.Response-center}
-Leia mais sobre o livro e o website <a href="{{ t.aboutLink }}">aqui</a>.
+En savoir plus sur le livre et le site Web <a href="{{ t.aboutLink }}">ici</a>.
