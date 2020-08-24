@@ -1,9 +1,9 @@
 ---
 layout: default
 lang: fr
-prevLink: /pt-br/segunda-resposta
-nextLink: /pt-br/terceira-resposta
-title: Terceira carta
+prevLink: /fr/reponse-deux
+nextLink: /fr/reponse-troi
+title: Troisième lettre
 ---
 
 <div class="LetterThree">
@@ -12,13 +12,13 @@ title: Terceira carta
   </div>
 
   <div class="LetterThree-block">
-    Queridos Kole 
+    Chers Kole 
     <img 
       class="LetterThree-stamp LetterThree-stamp--tall" 
       src="/public/img/letter-03/football-player.jpg"
       aria-hidden="true" 
     />
-    e Stane
+    et Stane
     <img
       class="LetterThree-stamp LetterThree-stamp--square"
       src="/public/img/letter-03/olimpics.jpg"
@@ -27,54 +27,59 @@ title: Terceira carta
   </div>
 
   <div class="LetterThree-block LetterThree-block--two">
-    Aqui os <img 
+    Ici les <img 
       class="LetterThree-stamp" 
       src="/public/img/letter-03/phone.jpg"
-      alt="telefones"
+      alt="téléphones"
+      title="téléphones"
     />
-    ainda não funcionam.
+    ne fonctionnent toujours pas.
   </div>
 
   <div class="LetterThree-block LetterThree-block--double">
     <div class="LetterThree-doubleItem">
       <div class="LetterThree-doubleItemText LetterThree-doubleItemText--narrow">
-        Por que vocês não estão
+      Pourquoi pas vous deux ne
       </div>
       <div>
         <img 
           class="LetterThree-stamp" 
           src="/public/img/letter-03/letter.jpg"
-          alt="escrevendo cartas"
+          alt="écris pas des lettres"
+          title="écris pas des lettres"
         />
       </div>
-      <div class="LetterThree-doubleItemTextBottom">pra mim?</div>
+      <div class="LetterThree-doubleItemTextBottom">pour moi?</div>
     </div>
     <div class="LetterThree-doubleItem">
       <div class="LetterThree-doubleItemText LetterThree-doubleItemText--narrow">
-        Talvez não tenha
+        Peut-être qu'il n'y a pas de
       </div>
       <img 
         class="LetterThree-stamp" 
         src="/public/img/letter-03/postbox.jpg"
-        alt="caixa dos Correios"
+        alt="boîte postale"
+        title="boîte postale"
       /> 
-      <div class="LetterThree-doubleItemTextBottom">aí.</div>
+      <div class="LetterThree-doubleItemTextBottom">là-bas.</div>
     </div>
   </div>
 
   <div class="LetterThree-block LetterThree-block--four">
-    O que vocês têm feito:
+    Où passesz vous votre temps:
     <div class="LetterThree-blockFourStamps">
       <img 
         class="LetterThree-stamp LetterThree-stamp--landscape" 
         src="/public/img/letter-03/tree.jpg"
-        alt="Fora" 
+        alt="à l'extérieur " 
+        title="à l'extérieur" 
       />
       ou
       <img
         class="LetterThree-stamp LetterThree-stamp--landscape"
         src="/public/img/letter-03/home.jpg"
-        alt="dentro de casa"
+        alt="à l'intérieur de la maison"
+        title="à l'intérieur de la maison"
       />?
     </div>
   </div>
@@ -82,28 +87,30 @@ title: Terceira carta
   <div class="LetterThree-block LetterThree-block--double">
     <div class="LetterThree-doubleItem">
       <div class="LetterThree-doubleItemText">
-        Vocês esqueceram como se joga
+        Vous avez oublié comment jouer aux 
       </div>
       <img 
         class="LetterThree-stamp" 
         src="/public/img/letter-03/chess.jpg"
-        alt="xadrez"
+        alt="échecs"
+        title="échecs"
       />
     </div>
     <div class="LetterThree-doubleItem">
       <div class="LetterThree-doubleItemText">
-        Se vocês não se comportarem, vou mandar sua mãe
+        Si tu ne te conduis pas, je dirai à ta mère d'utiliser
       </div>
       <img 
         class="LetterThree-stamp" 
         src="/public/img/letter-03/boxing.jpg"
-        alt="usar suas habilidades de boxeadora"
+        alt="ses compétences de boxe"
+        title="ses compétences de boxe"
       />
     </div>
   </div>
 
   <div class="LetterThree-bottom">
-    Com muito amor
+    Gros bisous
     <div class="LetterThree-bottomImages">
       <img
         class="LetterThree-stamp LetterThree-stamp--landscape LetterThree-stamp--bottom"
@@ -113,7 +120,8 @@ title: Terceira carta
       <img
         class="LetterThree-tadija"
         src="/public/img/letter-03/tadija.png"
-        alt="Papai sonhando com um avião indo para Divljana"
+        alt="Papa rêve d'un avion à destination de Divljana"
+        title="Papa rêve d'un avion à destination de Divljana"
       />
     </div>
   </div>
