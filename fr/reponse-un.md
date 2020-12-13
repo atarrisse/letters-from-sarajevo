@@ -12,7 +12,7 @@ Cher père,
 
 Nous avons reçu votre lettre! Maman m'a dit que je ne peux pas t'envoyer de réponse parce que rien n'est livré à Sarajevo. Je vous écris donc dans un cahier, que vous lirez lors de notre prochaine rencontre.
 
-Cela fait six mois que nous avons quitté Sarajevo dans le bus sans fenêtre. Alors que le bus partait, je l'ai vu faire un signe de la main et je l'ai suivi des yeux jusqu'à ce que je me perde au loin. «C'est bien que le bus n'ait pas de fenêtres», ai-je pensé, «sinon je serais malade». Nous avons croisé des soldats qui parfois nous criaient quelque chose. Tout les soldats portrayaient des uniformes de différentes couleurs
+Cela fait six mois que nous avons quitté Sarajevo dans le bus sans fenêtre. Alors que le bus partait, je t'ai vu faire un signe de la main et je t'ai suivi des yeux jusqu'à ce que je me perde au loin. «C'est bien que le bus n'ait pas de fenêtres», ai-je pensé, «sinon je serais malade». Nous avons croisé des soldats qui parfois nous criaient quelque chose. Tout les soldats portrayaient des uniformes de différentes couleurs
 
 Puis le bus est tombé en panne, juste à côté d'un groupe de soldats. Ils ont ordonné à tout le monde de descendre du bus et ont commencé à fouiller tous les bagages. L'un d'eux, coiffé d'un chapeau de cowboy et d'une moustache, parlait anglais avec un autre soldat au béret bleu. Il a remarqué que je le regardais, m'a tapoté la tête et m'a dit: «Ne t'inquiète pas, tout ira bien».
 

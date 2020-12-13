@@ -15,7 +15,7 @@ blockOne:
 blockTwo:
   image: /public/img/letter-01/02.png
   alt: Un rat court dans un trou dans le mur transportant un homme suspendu à sa queue.
-  text: Les missiles continuent de tomber. Nous avons amélioré nos techniques de sauvetage.
+  text: Les missiles continuent a tomber. Nous avons amélioré nos techniques de sauvetage.
 
 blockThree:
   image: /public/img/letter-01/03.png

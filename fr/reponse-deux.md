@@ -10,7 +10,7 @@ title: Deuxième réponse
 
 Cher père,
 
-Je suis désolé pour notre chambre, mais maman a dit que ce n'était pas important. Elle a dit: «La pièce n'a pas d'importance tant que nous sommes à nouveau ensemble.»
+Je suis désolé pour notre chambre, mais maman a dit que ce n'était pas important. Elle a dit: «La pièce n'a pas d'importance tant que nous sommes de nouveau ensemble.»
 
 Ici à Divljana, je me suis fait un bon ami, Mihajlo (Samir est toujours mon meilleur ami, même si je ne l'ai pas revu depuis que nous avons quitté Sarajevo). Mihajlo habite au rez-de-chaussée de «Sutjeska», notre camp d'été. Il y a quelques jours, ils ont trouvé un serpent dans sa chambre. Je pense que le serpent ne montera pas dans notre chambre, qui est au deuxième étage.
 
